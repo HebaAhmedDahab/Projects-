@@ -5,5 +5,4 @@ This repository contains a colab notebook (Region_sales.ipynb) that performs an 
 The notebook requires the following Python libraries:
 
 pandas, 
-matplotlib, 
-seaborn
+matplotlib
